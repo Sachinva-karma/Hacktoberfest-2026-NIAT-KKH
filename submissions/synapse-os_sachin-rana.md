@@ -3,8 +3,8 @@
 ## Team / attendee
 
 - Team name (if applicable): Synapse OS
-- Members and GitHub usernames: Sachin Rana ([@Sachinva-karma](https://github.com/Sachinva-karma))
-- Profile links (optional): [https://github.com/Sachinva-karma](https://github.com/Sachinva-karma)
+- Members and GitHub usernames: Sachin Rana ([@Sachinva-karma](https://github.com/Sachinva-karma)), Mannat Sahu ([@mannatsahu55-oss](https://github.com/mannatsahu55-oss))
+- Profile links (optional): [https://github.com/Sachinva-karma](https://github.com/Sachinva-karma), [https://github.com/mannatsahu55-oss](https://github.com/mannatsahu55-oss)
 
 ## Challenge
 
